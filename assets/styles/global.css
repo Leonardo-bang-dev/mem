@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+main{
+
+}
+
+.foto {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
